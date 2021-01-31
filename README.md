@@ -18,7 +18,7 @@
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="50px" /> GitHub Statistics.
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="50px" 
 
 
 ![AK47's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
