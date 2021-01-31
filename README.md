@@ -18,6 +18,6 @@
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
 
-
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="50px" /> Statistics
 
 ![AK47's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
