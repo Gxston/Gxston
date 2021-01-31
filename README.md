@@ -1,6 +1,6 @@
 <h2 align="center">Hello!, I'm Gxston. 👋</h2>
 
-<h4 align="center">I am a 20-year-old self-taught developer, addicted to coffee.</h4>
+Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 👨, Beside's Computer Science, I love videogames. 💻
 
 <br>
 
