@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Hello World! I'm Gxston.
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Hello World! I'm Gxston.
+
 
 ### ✔️ I'm currently learning
 - Quantum Computing
