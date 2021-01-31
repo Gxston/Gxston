@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi world! I'm Gxston 
+Hi world! I'm Gxston ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" width="50px" />
 
 
 ### ✔️ I'm currently learning
