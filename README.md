@@ -17,7 +17,6 @@
 ### 📫 Contact Me
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
-};
 
 ## Languages
 
@@ -27,3 +26,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-5466b8)
