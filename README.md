@@ -19,7 +19,7 @@
 - Discord - AK47#2237
 
 ```csharp
-Dictionary<string, string> AK47's Info = new Dictionary<string, string>()
+AK47's Info
 {
   { "Knowledge", "C#, Front-end, Java, Web Developer (PHP/HTML)" },
   { "Projects", "Anti Web Sniffers, and many more soon!" },
