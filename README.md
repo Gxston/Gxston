@@ -2,17 +2,18 @@
 
 Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 👨, Beside's Computer Science, I love videogames. 💻
 
-<br>
+### ✔️ I'm currently learning
+- Quantum Computing
+- Devops
 
-<h4>:cyclone: Information about me...</h4>
+### 💻 I'm working on
+- C# & Front-end Developer
+- Web Developer (PHP/HTML)
 
-```csharp
-Dictionary<string, string> Gxston = new Dictionary<string, string>()
-{
-  { "Knowledge", "C#, Front-end, Web Developer (PHP/HTML)" },
-  { "Projects", "Anti-Web-Sniffer, and many more soon!" },
-  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
-  { "OS", "Windows 10" }
+### 🌱 Goals for 2021
+- Complete #100DaysOfCode challenge.
+- Build 30+ projects.
+- Contribute to Open Source.
 };
 ```
 
