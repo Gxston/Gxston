@@ -18,10 +18,10 @@
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
 
+<br>
+
 ````bash
->
 > GitHub Stats
-> 
 ````
 
 
