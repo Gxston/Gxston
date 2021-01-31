@@ -18,12 +18,20 @@
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
 
-## Languages
+## Tools and Frameworks
 
-![C#](https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cSharp.svg)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-5466b8)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/bash.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/csharp.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+       <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/gamedev.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/java.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+            <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/nodejs.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/python.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/react_native.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/sass.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 
