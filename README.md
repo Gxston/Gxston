@@ -18,7 +18,7 @@ Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 
 
 ## Languages
 
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
