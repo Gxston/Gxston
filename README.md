@@ -1,16 +1,17 @@
-### Hi there 👋
+h2 align="center">Hello!, I'm Gxston. 👋</h2>
 
-<!--
-**Gxston/Gxston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">I am a 20-year-old self-taught developer, addicted to <s>coffee</s></h4>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>:cyclone: Some more things about me...</h4>
+
+```csharp
+Dictionary<string, string> Gxston = new Dictionary<string, string>()
+{
+  { "Knowledge", "C#, Front-end, Web Developer (PHP/HTML)" },
+  { "Projects", "Anti-Web-Sniffer, and many more soon!" },
+  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
+  { "OS", "Windows 10" }
+};
+```
