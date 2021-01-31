@@ -19,6 +19,5 @@
 - Discord - AK47#2237
 
 
-<h2 align="center">Statistics</h2>
 
 ![AK47's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
