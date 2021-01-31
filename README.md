@@ -20,9 +20,8 @@
 
 ```csharp
 AK47's Info
-{
-  { "Knowledge", "C#, Front-end, Java, Web Developer (PHP/HTML)" },
-  { "Projects", "Anti Web Sniffers, and many more soon!" },
-  { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
-  { "OS", "Windows 10" }
-};
+
+"Knowledge", "C#, Front-end, Java, Web Developer (PHP/HTML)" },
+"Projects", "Anti Web Sniffers, and many more soon!" },
+"Tools", "Visual Studio, JetBrains Rider, GitHub" },
+"OS", "Windows 10" }
