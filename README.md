@@ -1,10 +1,10 @@
-h2 align="center">Hello!, I'm Gxston. 👋</h2>
+<h2 align="center">Hello!, I'm Gxston. 👋</h2>
 
 <h4 align="center">I am a 20-year-old self-taught developer, addicted to <s>coffee</s></h4>
 
 <br>
 
-<h4>:cyclone: Some more things about me...</h4>
+<h4>:cyclone: Information about me...</h4>
 
 ```csharp
 Dictionary<string, string> Gxston = new Dictionary<string, string>()
@@ -15,3 +15,9 @@ Dictionary<string, string> Gxston = new Dictionary<string, string>()
   { "OS", "Windows 10" }
 };
 ```
+
+
+<h2 align="center">Statistics</h2>
+
+![Biitez's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
+![Biitez's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gxston&layout=compact&theme=radical) 
