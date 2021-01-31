@@ -14,6 +14,10 @@ Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 
 - Complete #100DaysOfCode challenge.
 - Build 30+ projects.
 - Contribute to Open Source.
+
+### 📫 Contact Me
+- Telegram - [@ripcxde](https://telegram.me/ripcxde)
+- Discord - [AK47#2237]
 };
 
 ## Languages
