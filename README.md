@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Gxston, a Developer 🚀 from Miami, FL.</h2>
+### Hi there, I'm Gxston <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 ### ✔️ I'm currently learning
