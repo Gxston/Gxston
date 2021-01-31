@@ -1,6 +1,5 @@
-<h2 align="center">Hello!, I'm Gxston. 👋</h2>
+<h2 align="center">Hi, I'm Gxston, a Developer 🚀 from Miami, FL.</h2>
 
-Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 👨, Beside's Computer Science, I love videogames. 💻
 
 ### ✔️ I'm currently learning
 - Quantum Computing
@@ -17,7 +16,7 @@ Hi, I'm Gxston, a C# Developer and Front-end Developer 🚀 from Miami, Florida 
 
 ### 📫 Contact Me
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
-- Discord - [AK47#2237]
+- Discord - AK47#2237
 };
 
 ## Languages
