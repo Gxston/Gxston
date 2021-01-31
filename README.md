@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Gxston.
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Gastón.
 
 
 ### ✔️ I'm currently learning
@@ -18,10 +18,7 @@
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
 - Discord - AK47#2237
 
-```csharp
-AK47's Info
 
-"Knowledge", "C#, Front-end, Java, Web Developer (PHP/HTML)" },
-"Projects", "Anti Web Sniffers, and many more soon!" },
-"Tools", "Visual Studio, JetBrains Rider, GitHub" },
-"OS", "Windows 10" }
+<h2 align="center">Statistics</h2>
+
+![AK47's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
