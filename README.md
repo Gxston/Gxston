@@ -26,4 +26,3 @@ Dictionary<string, string> AK47's Info = new Dictionary<string, string>()
   { "Tools", "Visual Studio, JetBrains Rider, GitHub" },
   { "OS", "Windows 10" }
 };
-```
