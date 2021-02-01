@@ -16,7 +16,7 @@
 
 ### 📫 Contact Me
 - Telegram - [@ripcxde](https://telegram.me/ripcxde)
-- Discord - AK47#2237
+- Discord - Fly#2237
 
 <br>
 
