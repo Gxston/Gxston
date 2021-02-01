@@ -25,4 +25,4 @@
 ````
 <br>
 
-![AK47's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
+![Gxston's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
