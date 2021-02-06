@@ -15,8 +15,7 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Telegram - [@ripcxde](https://telegram.me/ripcxde)
-- Discord - Fly#2237
+- Discord - Fly#0800
 
 <br>
 
