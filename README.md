@@ -15,7 +15,7 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - Fly#0800
+- Discord - Lufi#0800
 
 <br>
 
