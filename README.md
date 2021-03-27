@@ -15,7 +15,7 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - Lufi#0800
+- Discord - Plug#0001
 
 <br>
 
