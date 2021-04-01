@@ -15,7 +15,8 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - Plug#0001
+- Discord - Gxston#0001
+- Email - gxston@0800.dev
 
 <br>
 
