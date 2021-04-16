@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Gastón.
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Dox.
 
 
 ### ✔️ I'm currently learning
@@ -15,8 +15,8 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - Gxston#0001
-- Email - gxston@0800.dev
+- Discord - dox#1982
+- Email - dox@0800.dev
 
 <br>
 
@@ -25,4 +25,4 @@
 ````
 <br>
 
-![Gxston's github stats](https://github-readme-stats.vercel.app/api?username=gxston&show_icons=false&theme=radical)
+![Gxston's github stats](https://github-readme-stats.vercel.app/api?username=akdox&show_icons=false&theme=radical)
