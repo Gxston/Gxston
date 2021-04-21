@@ -15,8 +15,8 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - dox#1982
-- Email - dox@0800.dev
+- Discord - code#0800
+- Email - code@0800.dev
 
 <br>
 
@@ -25,4 +25,4 @@
 ````
 <br>
 
-![Gxston's github stats](https://github-readme-stats.vercel.app/api?username=akdox&show_icons=false&theme=radical)
+![Code's github stats](https://github-readme-stats.vercel.app/api?username=FuckTheLove&show_icons=false&theme=radical)
