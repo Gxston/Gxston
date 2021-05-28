@@ -1,4 +1,3 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Front.
 
 ### 📫 Contact Me
 - Discord - front#0001
