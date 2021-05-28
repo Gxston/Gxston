@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Code.
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" />  Hello World! I'm Front.
 
 
 ### ✔️ I'm currently learning
@@ -15,8 +15,8 @@
 - Contribute to Open Source.
 
 ### 📫 Contact Me
-- Discord - code#0800
-- Email - code@0800.dev
+- Discord - front#0001
+- Email - front@0800.dev
 
 <br>
 
@@ -25,4 +25,4 @@
 ````
 <br>
 
-![Code's github stats](https://github-readme-stats.vercel.app/api?username=FuckTheLove&show_icons=false&theme=radical)
+![Front's github stats](https://github-readme-stats.vercel.app/api?username=FuckTheLove&show_icons=false&theme=radical)
