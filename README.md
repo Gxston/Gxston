@@ -1,3 +1,3 @@
 ### 📫 Contact Me
-- Discord - front#0001
-- Email - front@0800.dev
+- Discord - kode#0990
+- Email - kode@0800.dev
