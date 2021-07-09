@@ -1,3 +1,3 @@
 ### 📫 Contact Me
-- Discord - kode#0990
-- Email - kode@0800.dev
+- Discord - kode#1337
+- Server - discord.gg/richest
